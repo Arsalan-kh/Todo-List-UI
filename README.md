@@ -17,8 +17,7 @@ https://github.com/Arsalan-kh/Todo-List-UI.git
 
 ## Live link:
 https://arsalan-kh.github.io/Todo-List-UI/
-............................................................
-............................................................
+
 ## Grocery list:
 
 ##  live link:
